@@ -20,7 +20,7 @@
         <fastjson.version>1.2.62</fastjson.version>
         <lombok.version>1.18.10</lombok.version>
         <archaius-core.version>0.7.7</archaius-core.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
     </properties>
 
     <dependencyManagement>
